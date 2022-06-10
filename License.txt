@@ -1,0 +1,143 @@
+This Evaluation Agreement (“Agreement”) is a legal agreement between 
+you (the “User”) and Global Graphics Software Limited, with a 
+registered office at Building 2030, Cambourne Business Park, 
+Cambourne, Cambridge CB23 6DW (“Global Graphics”).  This Agreement 
+sets out the terms upon which the Software is licensed to the User. 
+The User must only install and use the Software in accordance with the 
+terms and conditions of this Agreement. The User is responsible for 
+the installation of the Software and installation must be performed in 
+accordance with the terms of the documentation accompanying the 
+Software.  By installing, loading, copying, storing or otherwise using 
+the Software, the User agrees to be bound by the terms and conditions 
+of this Agreement. If the User does not wish to be bound by the terms 
+and conditions of this Agreement the User should not install, load, 
+copy, store or otherwise use the Software in any circumstances. 
+
+1. Definitions
+
+“Software” means a standard version of those Global Graphics’ Mako 
+Core in object code format, source code format or any other 
+appropriate format, including without limitation any related materials 
+and documentation accompanying the Software and any updates to the 
+Software (if any) provided hereunder by Global Graphics.
+
+2. License Grant
+
+(a) Global Graphics grants to the User, at no charge, a 
+non-exclusive, non-transferable licence to use the Software solely for 
+internal testing and evaluation purposes and only in accordance with 
+the terms of this Agreement.
+
+(b) Except as expressly stated herein, the User shall not, distribute, 
+sublicense, sell, display, assign or otherwise transfer the Software.  
+The User may make one (1) copy of the Software, including any related 
+materials, only for archival and back-up purposes.  The Software may 
+not be modified, decompiled, disassembled or otherwise reverse 
+engineered, except and only to the extent that such activity is 
+expressly permitted by applicable law notwithstanding this limitation.
+
+(c) No title to or ownership of the Software is transferred to the 
+User.  All right, title to, and interest in the Software, and any 
+other materials or information provided by Global Graphics hereunder, 
+and any modifications and derivatives thereof, including rights in 
+patents, trademarks, trade secrets, copyrights or other proprietary 
+rights shall remain in Global Graphics and/or any third party from 
+whom Global Graphics has acquired licence rights.
+
+3. Installation, Use and Evaluation
+
+(a) The User is responsible for installing the Software and any 
+updates Global Graphics may provide to the User under this Agreement.  
+The User is responsible for all equipment, services, facilities, and 
+personnel that are necessary for the User to use, test and evaluate 
+the Software.
+
+(b) The User may, at its option, provide Global Graphics with test 
+results and feedback on its opinion and evaluation of the Software 
+detailing any problems encountered, deficiencies noted, and 
+recommendations.  Such communications may be given in writing or by 
+electronic mail, as mutually agreed by the parties.
+
+(c) All reports, test results, and other feedback provided to Global 
+Graphics shall be the property of the User, however, the User grants 
+to Global Graphics a royalty free, perpetual license to use any 
+reports, test results and feedback for any purpose without 
+restriction.  The User may use these reports, test results and 
+feedback for internal purposes only, and may not communicate any of 
+their contents or any opinions concerning the Software to any third 
+party, without the prior written permission of Global Graphics.
+
+4. Confidentiality
+
+The User acknowledges that the Software, whether in source code, 
+object code, generic code or other code form is Global Graphics 
+Confidential Information, and the User agrees to keep confidential and 
+not to disclose the Software, in any form, to any other person or 
+entity or to allow any other person or entity to copy or view such 
+Software.
+
+5. Disclaimer of Warranty and Limitation of Liability
+
+THE USER ACKNOWLEDGES THAT THE SOFTWARE IS LOANED TO THE USER “AS-IS”, 
+THAT THE SOFTWARE MAY CONTAIN DEFECTS, AND THAT GLOBAL GRAPHICS MAKES 
+NO REPRESENTATIONS OR WARRANTY REGARDING ITS USE OR PERFORMANCE.  
+GLOBAL GRAPHICS DISCLAIMS ALL IMPLIED WARRANTIES INCLUDING, BUT NOT 
+LIMITED TO, THE IMPLIED WARRANTIES OF SATISFACTORY QUALITY, 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+GLOBAL GRAPHICS SHALL NOT BE LIABLE FOR ANY DAMAGES RESULTING FROM THE 
+USER’S USE OR POSSESSION OF THE SOFTWARE, INCLUDING LOSS OF DATA, LOSS 
+OF USE, AND LOST PROFITS.  IN NO EVENT SHALL GLOBAL GRAPHICS BE LIABLE 
+FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN 
+IF GLOBAL GRAPHICS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. Termination
+
+(a) The term of this Agreement shall be for a period of thirty (30) 
+days from the date of activation of the Software by the User, unless 
+otherwise terminated as provided herein.  Global Graphics may 
+terminate this Agreement immediately if the User takes any action in 
+derogation of Global Graphics rights hereunder.
+
+(b) Upon expiration or termination of this Agreement the User shall 
+immediately either return to Global Graphics, or erase or destroy, the 
+Software and any written proprietary information furnished to the 
+User, and any copies of any of the foregoing whether in electronic, 
+written, machine-readable, or other form.  The User shall certify in 
+writing to Global Graphics that it has returned, erased or destroyed 
+the foregoing.
+
+(c) Sections 2 (c), 3(c), 4 and 5 will survive termination of this 
+Agreement.
+
+7. Entire Agreement
+
+This Agreement supersedes all prior agreements between the parties 
+whether written or oral concerning the subject matter herein and may 
+not be amended or modified except by written consent of both parties.
+
+8. Governing Law
+
+This Agreement is governed in all respects by the laws of England, and 
+by entering into this Agreement, the parties hereby submit to the 
+exclusive jurisdiction of the Courts of England.
+
+9. Data Protection.
+
+Global Graphics will need to obtain an email address from the User, as 
+well as any other information relevant to this evaluation, in order to 
+provide the User with an evaluation product key. Global Graphics may 
+use this email address, and any other relevant information, to follow 
+up with the User from time to  time to discuss the progress of the 
+User’s evaluation. Global Graphics will not use your email address, or 
+any other information we obtain from you pursuant to this evaluation, 
+for any other purpose.  Global Graphics will store your email address, 
+and any other information that may be relevant to this evaluation, 
+securely and shall comply with its obligations under applicable data 
+protection and privacy laws
+
+At any time you may request that Global Graphics does not contact you 
+any further and deletes your email address by emailing 
+privacy-information@globalgraphics.com
+
+If you have any questions/comments about privacy, you should email 
+privacy-information@globalgraphics.com.
